@@ -47,7 +47,7 @@ I'm actually really enjoying this course, mainly because of the organization of 
 
 ## Links
 
-- Deploy on Vercel:
+- Deploy on Vercel: https://to-do-list-ignite-rocket.vercel.app
 - Repository: https://github.com/Artur-Poffo/ToDo-List-Ignite
 
 ## Versions
